@@ -12,5 +12,5 @@ public class Controller {
 
     }
 
-    // Tu będą gety i sety
+    // Tu będą gety i posty
 }
